@@ -5,9 +5,9 @@
 *
 * @overview
 *
-* Phaser Calango Helper - https://github.com/Liques/PhaserCalangoHelper
+* Phaser Calango - https://github.com/Liques/PhaserCalango
 *
-* v1.0 "2017-09-25" 
+* v1.0.1 "2017-09-25" 
 *
 * By Samuel Rodrigues  @liques
 *
